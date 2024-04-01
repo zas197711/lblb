@@ -1,1 +1,1 @@
-My fix in 1.txt
+Changes in file 1.txt
